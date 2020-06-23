@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\bin\Debug\netcoreapp3.1\Bot.Mega.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.csprojAssemblyReference.cache
