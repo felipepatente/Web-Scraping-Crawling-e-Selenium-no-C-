@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvMdyvqM5hzNTYL8upVjlI39mnz76HEzLeHxjIhc7KRE4X0U15w6yiwM8za32FwW8KTsAItAgnNTCB1BdwSOhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Documentos\\GitHub\\Web-Scraping-Crawling-e-Selenium-no-C-\\Bot\\Bot.Instagram.Profile\\Bot.Instagram.Profile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

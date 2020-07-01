@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\Bot.Instagram.Profile.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Instagram.Profile\obj\Debug\netcoreapp3.1\Bot.Instagram.Profile.genruntimeconfig.cache
