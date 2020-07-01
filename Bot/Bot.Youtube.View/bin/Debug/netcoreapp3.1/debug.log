@@ -1,0 +1,3 @@
+[0701/172602.630:ERROR:process_reader_win.cc(108)] process 56584 not found
+[0701/172602.748:ERROR:exception_snapshot_win.cc(98)] thread ID 34632 not found in process
+[0701/172602.749:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)

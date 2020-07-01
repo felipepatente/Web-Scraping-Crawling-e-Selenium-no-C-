@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Instagram.Profile", "Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Instagram.Selenium", "Bot.Instagram.Selenium\Bot.Instagram.Selenium.csproj", "{E2FF611B-EEA3-4FC7-8788-C892ADA627B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Youtube.View", "Bot.Youtube.View\Bot.Youtube.View.csproj", "{7B1FC3E7-9A4B-4BFF-8FE1-8230D9A36BFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E2FF611B-EEA3-4FC7-8788-C892ADA627B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2FF611B-EEA3-4FC7-8788-C892ADA627B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2FF611B-EEA3-4FC7-8788-C892ADA627B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1FC3E7-9A4B-4BFF-8FE1-8230D9A36BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1FC3E7-9A4B-4BFF-8FE1-8230D9A36BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1FC3E7-9A4B-4BFF-8FE1-8230D9A36BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1FC3E7-9A4B-4BFF-8FE1-8230D9A36BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

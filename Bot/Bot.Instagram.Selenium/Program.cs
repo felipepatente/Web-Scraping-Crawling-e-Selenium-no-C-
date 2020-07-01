@@ -13,8 +13,6 @@ namespace Bot.Instagram.Selenium
         {
             string username = "felipepatente@yahoo.com.br";
             string password = "46692201";
-
-            ChromeDriver cd = new ChromeDriver();
             
             IWebDriver webDriver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
             
@@ -33,7 +31,6 @@ namespace Bot.Instagram.Selenium
                 #endregion
 
                 webDriver.Navigate().GoToUrl("https://www.instagram.com/accounts/login/");
-
                 Thread.Sleep(TimeSpan.FromSeconds(10));
 
                 webDriver.FindElement(By.Name("username")).SendKeys(username);
@@ -54,7 +51,7 @@ namespace Bot.Instagram.Selenium
                 }
                 catch (NoSuchElementException ex)
                 {
-                    Console.WriteLine("Já está seguindo o usuário");
+                    Console.WriteLine("Já está seguindo o usuário: " + ex.ToString());
                 }
             }
             catch (Exception ex)

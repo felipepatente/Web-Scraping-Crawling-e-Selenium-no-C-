@@ -1,0 +1,16 @@
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\bin\Debug\netcoreapp3.1\Bot.Youtube.View.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Youtube.View\obj\Debug\netcoreapp3.1\Bot.Youtube.View.genruntimeconfig.cache
