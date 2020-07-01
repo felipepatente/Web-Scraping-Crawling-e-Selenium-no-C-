@@ -10,4 +10,3 @@ C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-
 C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.dll
 C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.pdb
 C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.genruntimeconfig.cache
-C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.Mega\obj\Debug\netcoreapp3.1\Bot.Mega.csprojAssemblyReference.cache

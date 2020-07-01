@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "35UyMasyefCQuooiqWAzHBI2gaqGkdhul41S8T2oVsCepOvuwbqMpYaVlbHMQtkGa9KQhcfT/MhTdXM6giHE4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Documentos\\GitHub\\Web-Scraping-Crawling-e-Selenium-no-C-\\Bot\\Bot.MegaSena.JSON\\Bot.MegaSena.JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

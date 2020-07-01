@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Bot.MegaSena.JSON.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Web-Scraping-Crawling-e-Selenium-no-C-\Bot\Bot.MegaSena.JSON\obj\Debug\netcoreapp3.1\Bot.MegaSena.JSON.csproj.CopyComplete
